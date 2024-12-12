@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">pdd9</string>
+    <string name="loading">Загрузка</string>
+    <string name="title">Тест на знание ПДД</string>
+    <string name="version">Версия 1.0</string>
+    <string name="buttonstart">НАЧАТЬ</string>
+    <string name="titlelong">Проверь,\nзнаешь ли ты \nосновные \nправила \nПДД?</string>
+    <string name="descriptionimage">ПДД</string>
+    <string name="question">При повороте направо \nВы должны уступить дорогу:</string>
+    <string name="answer1">1. Только велосипедисту</string>
+    <string name="answer2">2. Только пешеходам</string>
+    <string name="answer3">3. Велосипедисту и пешеходам</string>
+    <string name="answer4">4. Никому</string>
+    <string name="wrong">Неправильно !</string>
+    <string name="congratulations">Молодец!!!\nПрава совсем близки!\nПродолжай в том же духе!</string>
+    <string name="about">О программе</string>
+    <string name="developer">Разработчик:</string>
+    <string name="email">Почта</string>
+    <string name="address">Адрес</string>
+    <string name="exit">Выход</string>
+</resources>
